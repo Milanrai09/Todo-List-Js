@@ -1,0 +1,75 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+}
+
+h3.\31 st {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+h3.\32 nd {
+    display: flex;
+    justify-content: center;
+}
+
+.second-div {
+    display: flex;
+    justify-content: center;
+    margin: 11px;
+    border: 2px solid gray;
+    border-radius: 18px;
+    background-color: gray;
+    
+    
+}
+
+input.inputs {
+    padding: 0.4%;
+    border-radius: 13px;
+    outline: none;
+    border: 2px solid gray;
+    width: 44vh;
+    background-color: gray;
+    color: white;
+    
+}
+
+button.click {
+    margin-left: 11px;
+    outline: none;
+    background:none;
+    border: none;
+    font-size: 2rem;
+    color: white;
+    
+}
+
+input.firstinput {
+    padding: .4%;
+    width: 53vh;
+    border: none;
+    filter: none;
+    box-shadow: none;
+    outline: none;
+    color: white;
+    background-color: gray;
+    
+}
+
+.seconddiv {
+    margin-left: 9px;
+    
+}
+
+button.deleteedit {
+    margin-left: 37px;
+    background: none;
+    border: none;
+    color: white;
+    outline: none;
+}
